@@ -18,6 +18,11 @@ main{
     background-color: rgb(65, 136, 199);
 }
 
+img{
+    height: 100px;
+    
+}
+
 footer{
     background-color: aquamarine;
     color: white;
