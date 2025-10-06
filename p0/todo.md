@@ -1,16 +1,16 @@
 ## To do
- - [ ] change title
- - [ ] remove and add the correct info and picture into hero section
- - [ ] remove the services part of the website
- - [ ] add actual content to some of the placeholder texts
- - [ ] replace some of the contact links with more appropriate ones now (remove linked in and skye and add stuff like yt or twitch)
- - [ ] remove unused assets
- - [ ] add proper images to portfolio or repurpose this page
- - [ ] get the links working
- - [ ] MAYBE change the colors of the website
- - [ ] find a good font
- - [ ] add subtext to certain photos
- - [ ] add items to the dropdown menus
- - [ ] add a "history" tab
- - [ ] instead of the contact page I would just do a socials tab for all of their socials
- - [ ] make sure the website works on multiple devices
+ - [x ] change title
+ - [ x] remove and add the correct info and picture into hero section
+ - [ x] remove the services part of the website
+ - [x] add actual content to some of the placeholder texts
+ - [ x] replace some of the contact links with more appropriate ones now (remove linked in and skye and add stuff like yt or twitch)
+ - [x ] remove unused assets
+ - [ x] add proper images to portfolio or repurpose this page
+ - [x ] get the links working
+ - [x ] add a business contact page
+ - [x ] get the menu correct on the index page
+ - [x ] size the images correctly
+ - [x] imbed videos correctly
+ - [ x] add a "history" tab
+ - [x ] instead of the contact page I would just do a socials tab for all of their socials
+ - [ ] 
